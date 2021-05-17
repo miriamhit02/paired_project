@@ -24,16 +24,34 @@ Use this template when conducting DTR with your project partners. *It's recommen
 * What’s gone well or poorly in your previous projects?
   * Lex: I procrastinate, panic, and sometimes in the absence of others to whom to be accountable, but not intimidated by, I freeze up. This happened in my last individual project and it led to predictable failure. However, I am proud that even when I know something is broken or wrong with my code, I can move past the error and onto the next problem and at least get to the end of whatever I was working on, even if the finished project isn't pretty.
   * Miriam: I have procrastinated a bit, not to the extent that I failed the project, but it did cause a lot of stress which could have been avoided. I will freak out and panic at problems, sometimes, but what is going well is that toward the end of the last project, I was learning to calm down and analyze the problem and try to figure it out with an open mind.  
+  * Both: Just had a great win from asking for help with a git issue. That wasn't so bad!
 * How will we set direction and make decisions as a team?
+  * We both seem to be pretty good at compromising - patiently listening to each person's idea, giving feedback on the ideas, and repeating the process until a conclusion has been made between both parties.
 * How will we overcome obstacles?
+  * First, we need to figure out what the heck is going on or what is causing the issue. First, give ourselves a bit of time to figure it out, but reach out for help after struggling with the problem for 15-20 minutes.
 * What do you need (resources, environment, communication) to do your best work?
+  * Miriam: I need a room without distractions (people talking, doing loud things etc, or random loud noises). As far as communication, I need regular communication (as in daily at the barest minimum). I need a good internet connection, a good search engine, my brother, instructors, and mentors to whom to reach out.
+  * Lex: I need a good internet connection, my own battle station (work station), the ability to go outside for pom breaks, snacks, water, and the occasional break to vape. Regarding communication, I prefer to communicate multiple times per day, if possible, combining slack and Zoom (especially working in a group!).
 * What scheduling restraints do you have? What are your scheduling preferences?
+  * Miriam: Church every day at 7PM EST running until about 9PM EST Monday through Saturday - I never skip this. Church and family time on Sundays is from 10AM-3PM and sometimes goes a little later. I value my morning routine, as well. Any time after class and before church is a good time to work on projects. This Saturday I have an event for church which will take a significant chunk of the day, but the afternoon should be free.
+  * Lex: mornings are important to me - for right now I would like to avoid working before class, but communicating before class would probably be fine. I prefer not to work on school before 7AM MST and after 9PM MST. Also I might need a random nap for migraine management.
 * What is your style for giving feedback? Does anything ever hold you back from giving feedback?
+  * Miriam: I, by nature, can't stand hurting other people's feelings. I try to be kind about it, but also professional. I will speak up and be assertive but will try my best not to hurt feelings.
+  * Lex: I value immediacy in feedback, and I often send feedback in multiple communication channels (sometimes at once) and hope that this is not overwhelming. I try to be kind, but sometimes shorter sentences are read as more severe than I intend... I try to use emojis to convey a softer tone of voice.
 * What do you identify as being your biggest strength(s) technically, as they relate to this project? Where do you feel you could use improvement in your technical skills, as they relate to this project? How can our team help support you in improving these skills?
+  *
+  *
 * What tools do you want to use to manage the project?
+  * Slack, Zoom, Atom, Github, potentially text messages, and anything else we find from class in the upcoming week. Also cohort mates/mentors/instructors/stackoverflow/etc are essential external resources! Spellcheck also seems to be a must.   
 * How do you want the group to solve problems when members run into issues with features of the project?
+  * (see overcoming obstacles)
+  * When in doubt, reach out! Slack and community Zoom rooms should be leveraged (we might need to make them ourselves)
 * How do you know if a project is successful? How can we achieve that as a group?
+  * When requirements identified in the instructions are met, that is a success!
+  * Overcoming an obstacle, no matter how small, is a major success! Celebrate small victories, here.
+  * It's better to have the project complete, but not pretty, than incomplete and partially "perfect"
 * How will we recognize each other's successes and celebrate them?
+  * Verbally!!! Enthusiastically!! Immediately if it's not too disruptive!!
 
 Any additional questions that you would like to add:
 
