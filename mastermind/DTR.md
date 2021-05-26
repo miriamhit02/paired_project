@@ -57,41 +57,53 @@ Any additional questions that you would like to add:
 
 ### Remote Work Considerations During the COVID-19 Quarantine
 * What does remote focus look like for you? (headphones, distractions minimized (tv, family stuff, etc), video on)
+  * Use the same techniques encouraged by Turing during class.
 * When working from the same place where you live, life can get in the way. What are some potential life things that could affect your ability to focus, and what plan can we come up with to approach those moments?
+  * Lex: My kitty is a living, breathing being that requires attention. Family wants to communicate and could be a potential distraction. I plan to mitigate this with bribery and boundaries.
+  * Miriam: I live with my parents and little sister and they sometimes require me to do certain things.
 * If we encounter issues such as power outages, Zoom difficulties, or bad wifi, what backup plans can we have in place? (This could have answers like  asking a neighbor to borrow wifi, using cellphone hotspot for internet, switching to slack or skype.
+  * Lex: Connect hotspot to computer. If we have Zoom difficulties we can use slack, our phones, or facetime.
+  * Going to library and the same as Lex.
 * Pomodoro breaks are especially important for remote work and doubly so for quarantine. What should our Pom cadence look like? How will hold ourselves accountable?
+  * Work for 25 minutes and then take a 5 minute break. Do this four times, then get a 15 min break. We can each set a timer to keep ourselves accountable.
 * Quarantine is tough, so it’s important to make note of our mental/emotional state when working with others. How can we make space to check in on each other’s well being, in addition to the work that needs to be done?
+  * Lex: I tend to speak really quickly when stressed. I like that we've identified potential indicators of stress and have given ourselves permission to  ask for a quick pause.
+  * Miriam: I tend speak really quickly which causes me to stutter when I'm stressed and tired.
+
 
 ### Template for DTR Memo
 
-Project:
+Project: Mastermind
 
-Group Member Names:
+Group Member Names: Lex, Miriam
 
 Goals and Expectations for the Project (What does each group member hope to get out of this project? What do we want to achieve as a team? How will we know that we're successful?):
+  * Lex: Build a successful game, use proper workflow, follow conventions, and work together actively.
+  * Miriam: At times when we are not actively working together and we get an idea or think of a possible solution to a previous problem, we can write down and share later or add it to the code but not make permanent changes.
 
 Team strengths & collaboration styles (consider discussing your Pairin qualities here):
+  * Our strengths balance each other out.
 
 How we can use our strengths to overcome obstacles:
+  * Our Strongest drivers are 'Searcher' and 'Microscope'. These will help us examine what is going on and why which is a great step to overcoming obstacles.
 
 Schedule Expectations (When are we available to work together and individually? What constraints do we have? Make sure to discuss the remote questions above in regards to this section):
+  * (See Above)
 
 Communication Expectations (How and often will we communicate? How do we keep lines of communication open? How will we make decisions as a team? How will we communicate about our emotional and mental well-being with each other?):
+  * (See Above)
 
 Abilities & Growth Expectations (Technical strengths and areas for desired improvement):
-
+  * (See Above)
 Workload Expectations (What features do we each want to work on?):
-
+  * We will be actively working together
 Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests/Debugging and Problem-solving Techniques):
-
+  * Revisit after class
 Pomodoro Break Schedule:
-
+  * (See above)
 Expectations for giving and receiving feedback:
-
+  * (See above)
 Additional Remote Considerations:
-
+  * (See above)
 Project management tools we will use (GitHub projects or Trello are popular tools):
-
-Day 1 Agenda:
-
-Additional Notes:
+  * Address this later
